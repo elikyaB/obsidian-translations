@@ -61,6 +61,7 @@ Here is a table of language code to language name, in alphabetical order. These 
 | `ca` | Catalan | català | 🚧 |
 | `cs` | Czech | čeština | ✅ |
 | `da` | Danish | Dansk | ✅ |
+| `eo` | Esperanto | Esperanto | 🚧 |
 | `de` | German | Deutsch | ✅ |
 | `el` | Greek | Ελληνικά | 🚧 |
 | `es` | Spanish | Español | ✅ |
